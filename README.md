@@ -22,14 +22,15 @@
   https://github.com/sudippokhrel33513/CompTIA-Security-
 - 🏅 **Google Cybersecurity Certification**
   https://github.com/sudippokhrel33513/Google-Cyber-security
+- LinkedIN ServiceNow certification
 
 ---
 
 ### 💻 **Technical Skills**
 - 🔹 **Cybersecurity & Network Security:** SIEM (Splunk, QRadar), Firewalls, IDS/IPS, Packet Analysis
-- 🔹 **IT Support & Troubleshooting:** Windows, MacOS, Linux, Active Directory, Office 365
+- 🔹 **IT Support & Troubleshooting:** Windows, MacOS, Linux, Active Directory, Office 365, servicenow
 - 🔹 **Networking:** TCP/IP, DNS, DHCP, VPN, Network Monitoring
-- 🔹 **Programming & Scripting:** Python, PowerShell
+- 🔹 **Programming & Scripting:** Python, PowerShell, javascript,
 - 🔹 **Cloud & Virtualization:** VMware, AWS, Security Onion
 
 ---
