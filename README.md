@@ -45,15 +45,6 @@
 🔹 Monitored network traffic using **Security Onion, SQUIL, and Wireshark**  
 🔹 Detected and analyzed security threats using **Metasploit & IDS tools**  
 
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ### 🌍 **Let's Connect!**
 <p align="center">
   <a href="https://www.linkedin.com/in/sudip-pokhrel-3375291b3/">
