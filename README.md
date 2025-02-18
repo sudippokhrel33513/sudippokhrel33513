@@ -22,7 +22,7 @@
   https://github.com/sudippokhrel33513/CompTIA-Security-
 - 🏅 **Google Cybersecurity Certification**
   https://github.com/sudippokhrel33513/Google-Cyber-security
-- LinkedIN ServiceNow certification
+- **LinkedIN ServiceNow certification**
 
 ---
 
