@@ -26,7 +26,7 @@ certifications:
   - CompTIA Security+
   - Google Cybersecurity Certificate
   - LinkedIn ServiceNow Certification
-focus       : Cybersecurity | IT Support | Network Security | SIEM
+focus       : Cybersecurity | Ethical Hacking | Network Security | SIEM
 status      : Open to SOC Analyst & IT Support roles
 ```
 
