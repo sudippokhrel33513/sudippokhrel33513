@@ -1,9 +1,9 @@
-[README (1).md](https://github.com/user-attachments/files/28241770/README.1.md)
+[README (2).md](https://github.com/user-attachments/files/28244300/README.2.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:185FA5&height=200&section=header&text=Sudip%20Pokhrel&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20IT%20Support%20Specialist&descAlignY=58&descColor=85B7EB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:185FA5&height=200&section=header&text=Sudip%20Pokhrel&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Information%20Security%20Analyst%20%7C%20GRC&descAlignY=58&descColor=85B7EB" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=CompTIA+Security%2B+Certified+%F0%9F%9B%A1%EF%B8%8F;Google+Cybersecurity+Certified+%F0%9F%94%90;SIEM+%7C+Splunk+%7C+Wireshark+%7C+Metasploit;Open+to+SOC+Analyst+%26+IT+Support+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Information+Security+Analyst+%7C+GRC+%F0%9F%9B%A1%EF%B8%8F;CompTIA+Security%2B+Certified+%F0%9F%94%90;Risk+Management+%7C+Compliance+%7C+Policy;Open+to+GRC+%26+InfoSec+Analyst+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudip-pokhrel-3375291b3/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudippokhrel33513@gmail.com)
@@ -26,8 +26,8 @@ certifications:
   - CompTIA Security+
   - Google Cybersecurity Certificate
   - LinkedIn ServiceNow Certification
-focus       : Cybersecurity | Ethical Hacking | Network Security | SIEM
-status      : Open to SOC Analyst & IT Support roles
+focus       : Information Security | GRC | Risk Management | Compliance
+status      : Open to Information Security Analyst (GRC) roles
 ```
 
 ---
