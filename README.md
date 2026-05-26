@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28241680/README.md)
+[README (1).md](https://github.com/user-attachments/files/28241770/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:185FA5&height=200&section=header&text=Sudip%20Pokhrel&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20IT%20Support%20Specialist&descAlignY=58&descColor=85B7EB" width="100%"/>
@@ -90,14 +90,28 @@ status      : Open to SOC Analyst & IT Support roles
 
 ---
 
-### 🚦 Smart Traffic Light System
-> **London Metropolitan University — Final Year Project**
+### 🔓 Application Vulnerability Assessment
+> **OS & Application Security — Fanshawe College**
 
-- Designed an **Arduino-based** adaptive traffic control system using **C#**
-- Implemented real-time vehicle density detection to optimize traffic flow
-- Built a working prototype with LED arrays and microcontrollers
+- Performed end-to-end vulnerability assessments on web and desktop applications
+- Identified and documented **OWASP Top 10** vulnerabilities including SQL injection, XSS, and broken authentication
+- Used **Burp Suite**, **Nmap**, and **Nikto** to simulate real-world attack scenarios
+- Produced detailed remediation reports with severity ratings and recommended mitigations
 
-`Arduino` `C#` `Embedded Systems` `Prototype`
+`Burp Suite` `Nmap` `Nikto` `OWASP Top 10` `Kali Linux` `Vulnerability Assessment`
+
+---
+
+### 🔑 Identity & Access Management (IAM)
+> **Fanshawe College — Information Security Management**
+
+- Designed and implemented an IAM framework across **Active Directory**, **AWS IAM**, and **Azure AD (Entra ID)**
+- Configured **Role-Based Access Control (RBAC)** and Group Policy Objects (GPOs) to enforce least-privilege principles
+- Set up **Multi-Factor Authentication (MFA)** and conditional access policies in Azure AD
+- Managed user provisioning, de-provisioning, and access reviews to reduce attack surface
+- Simulated privilege escalation attacks and validated controls using audit logs and SIEM monitoring
+
+`Active Directory` `AWS IAM` `Azure AD` `RBAC` `MFA` `Group Policy` `Least Privilege` `Splunk`
 
 ---
 
